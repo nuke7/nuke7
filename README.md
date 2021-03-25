@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- I'm Martin, a junior front-end developer from the EU.
+- 🤠 I'm Martin, a junior front-end developer from the EU.
+- 📚 I’m currently learning ![node/express.js](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png "node.js") and ![react](https://img.icons8.com/officel/30/000000/react.png) concepts like ![react redux](https://img.icons8.com/color/48/000000/redux.png) and router
 
 [![nuke7's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuke7&count_private=true&show_icons=true&theme=calm)](https://github.com/nuke7/github-readme-stats)
 
