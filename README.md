@@ -3,6 +3,7 @@
 
 - 🤠 I'm Martin, a junior front-end developer from the EU.
 - 🎈 Fun facts: b2b business development, gaming
+- 🏁 Goal: to be a full-stack developer
 - 📚 **I’m currently using, practicing and learning with:** <br />
 
 <img src="https://img.icons8.com/officel/48/000000/react.png" alt="react icon" width="48"/> &nbsp;   &nbsp;  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux icon" width="48"/> &nbsp;   &nbsp;   <img src="https://nodejs.org/static/images/logo-hexagon.png" alt="node.js icon" width="45"/> &nbsp;   &nbsp;   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="sass icon" width="48"/> &nbsp;   &nbsp;   <img src="https://image.flaticon.com/icons/png/512/732/732190.png" alt="css3 icon" width="48"/> &nbsp;   &nbsp;   <img src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png" alt="bootstrap icon" width="54"/> &nbsp;   &nbsp;  <img src="https://msysgit.github.io/img/gwindows_logo.png" alt="git icon" width="48"/> &nbsp;   &nbsp;   <img src="https://www.icone-png.com/png/52/52497.png" alt="js icon" width="45"/> &nbsp;   &nbsp;  <img src="https://wallabyjs.com/assets/img/icon_vsc.png" alt="vsc icon" width="48"/>  </pre>
