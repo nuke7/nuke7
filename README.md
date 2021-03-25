@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm Martin, a junior front-end developer from the EU.
+
+[![nuke7's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuke7)](https://github.com/nuke7/github-readme-stats)
+
 <!--
 **nuke7/nuke7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
