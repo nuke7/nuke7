@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🤠 I'm Martin, a junior front-end developer from the EU.
-- 📚 I’m currently learning ![node/express.js](https://img.icons8.com/windows/64/000000/node-js.png =32x) and ![react](https://img.icons8.com/officel/30/000000/react.png =32x) concepts like ![react redux](https://img.icons8.com/color/48/000000/redux.png =32x) and router
+- 📚 I’m currently learning ![node/express.js](https://img.icons8.com/windows/64/000000/node-js.png =32x32) and ![react](https://img.icons8.com/officel/30/000000/react.png =32x32) concepts like ![react redux](https://img.icons8.com/color/48/000000/redux.png =32x32) and router
 
 [![nuke7's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuke7&count_private=true&show_icons=true&theme=calm)](https://github.com/nuke7/github-readme-stats)
 
