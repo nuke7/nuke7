@@ -15,13 +15,13 @@
 <br/>
 
 <p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/anuraghazra/github-readme-stats" target="blank" onclick="return ! window.open(https://github.com/anuraghazra/github-readme-stats);">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuke7&count_private=true&show_icons=true&theme=calm&hide=stars" />
  </a>
 </p>
   
  <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="blank" onclick="return ! window.open(https://github.com/anuraghazra/github-readme-stats);">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuke7&layout=compact&hide=html" />
 </a>
   </p>
