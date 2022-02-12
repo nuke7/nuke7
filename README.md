@@ -3,9 +3,9 @@
 
 
 
-- 🤠 I'm Martin, a junior front-end developer from the EU.
+- 🤠 I'm Martin, a practicing front-end developer from the EU.
 - 🎈 Fun facts: b2b business development, gaming
-- 🏁 Goal: to be a full-stack developer
+- 🏁 Goal: to be a senior developer
 - 📚 **I’m currently using, practicing and learning with:** <br />
 
 <p align="center">
