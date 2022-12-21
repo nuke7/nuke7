@@ -4,7 +4,7 @@
 
 
 - 🤠 I'm Martin, a practicing front-end developer from the EU.
-- 🎈 Fun facts: b2b business development, gaming
+- 🎈 Fun facts: Tech b2b startup consulting, gaming
 - 🏁 Goal: to be a senior developer
 - 📚 **I’m currently using, practicing and learning with:** <br />
 
