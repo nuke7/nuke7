@@ -3,9 +3,9 @@
 
 
 
-- 🤠 I'm Martin, a practicing front-end developer from the EU.
+- 🤠 I'm Martin, a front-end developer from the EU.
 - 🎈 Fun facts: Tech b2b startup consulting, gaming
-- 🏁 Goal: to be a senior developer
+- 🏁 Goal: to be a senior developer/Technical PO
 - 📚 **I’m currently using, practicing and learning with:** <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuke7&label=Profile%20views&color=0a2dba&style=flat" alt="nuke7" /> </p>
