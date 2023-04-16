@@ -6,15 +6,17 @@
 - 🤠 I'm Martin, a front-end developer from the EU.
 - 🎈 Fun facts: Tech b2b startup consulting, gaming
 - 🏁 Goal: to be a senior developer/Technical PO
-- 📚 **I’m currently using, practicing and learning with:** <br />
+- 📚 **I'm experienced with:** <br />
+
+
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="sass icon" width="48"/> &nbsp;   &nbsp;   <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/css.png" alt="css3 icon" width="48"/> &nbsp;   &nbsp;   <img src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png" alt="bootstrap icon" width="54"/> &nbsp;   &nbsp;  <img src="https://msysgit.github.io/img/gwindows_logo.png" alt="git icon" width="48"/> &nbsp;   &nbsp;   <img src="https://www.icone-png.com/png/52/52497.png" alt="js icon" width="45"/> &nbsp;   &nbsp;  <img src="https://dl2.macupdate.com/images/icons256/54025.png?d=1488487262" alt="vsc icon" width="48"/> &nbsp;  <img src="https://img.icons8.com/color/50/000000/material-ui.png" alt="material ui icon" width="56"/> &nbsp;  <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" alt="vue icon" width="50"/>  &nbsp;   &nbsp;  <img src="https://img.icons8.com/officel/48/000000/react.png" alt="react icon" width="48"/> &nbsp;   &nbsp;  <img src="https://nodejs.org/static/images/logo-hexagon.png" alt="node.js icon" width="45"/>  &nbsp;   &nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwind css icon" width="55"/> &nbsp;   &nbsp;  <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="angular icon" width="45"/>   &nbsp;   &nbsp;  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TS icon" width="45"/> 
+  </p>
+
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuke7&label=Profile%20views&color=0a2dba&style=flat" alt="nuke7" /> </p>
 
 <p align="center">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="sass icon" width="48"/> &nbsp;   &nbsp;   <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/css.png" alt="css3 icon" width="48"/> &nbsp;   &nbsp;   <img src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png" alt="bootstrap icon" width="54"/> &nbsp;   &nbsp;  <img src="https://msysgit.github.io/img/gwindows_logo.png" alt="git icon" width="48"/> &nbsp;   &nbsp;   <img src="https://www.icone-png.com/png/52/52497.png" alt="js icon" width="45"/> &nbsp;   &nbsp;  <img src="https://dl2.macupdate.com/images/icons256/54025.png?d=1488487262" alt="vsc icon" width="48"/> &nbsp;  <img src="https://img.icons8.com/color/50/000000/material-ui.png" alt="material ui icon" width="56"/> &nbsp;  <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" alt="vue icon" width="50"/>  &nbsp;   &nbsp;  <img src="https://img.icons8.com/officel/48/000000/react.png" alt="react icon" width="48"/> &nbsp;   &nbsp;  <img src="https://nodejs.org/static/images/logo-hexagon.png" alt="node.js icon" width="45"/>  
-  </p>
-
-<br/>
 
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats" target="blank" onclick="return ! window.open(https://github.com/anuraghazra/github-readme-stats);">
