@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuke7&label=Profile%20views&color=0a2dba&style=flat" alt="nuke7" /> </p>
 
 <p align="center">
-
+<!--
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats" target="blank" onclick="return ! window.open(https://github.com/anuraghazra/github-readme-stats);">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nuke7&count_private=true&show_icons=true&theme=calm&hide=stars" />
@@ -35,7 +35,7 @@
   
 
 
-<!--
+
 **nuke7/nuke7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
