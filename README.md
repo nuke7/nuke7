@@ -17,6 +17,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuke7&label=Profile%20views&color=0a2dba&style=flat" alt="nuke7" /> </p>
 
 <p align="center">
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nuke7" alt="summary"/>
+</p>
 <!--
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats" target="blank" onclick="return ! window.open(https://github.com/anuraghazra/github-readme-stats);">
